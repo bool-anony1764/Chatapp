@@ -1,5 +1,9 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "apkUrl": "https://example.com/path/to/your/app.apk",
+  "apkUrl": "https://raw.githubusercontent.com/bool-anony1764/Chatapp/main/app-release-1.1_sign.apk": [
+    "Added new emoji reactions",
+    "Improved chat performance",
+    "Fixed bugs in message editing"
+  ]
 }
